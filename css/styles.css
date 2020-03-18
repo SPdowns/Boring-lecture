@@ -1,11 +1,7 @@
-h2.intro{
+.intro{
   color: rgb(71, 63, 63);
   font-size: large;
-}
-p.intro{
   font-family: georgia;
   font-weight: bold;
-}
-img.intro{
   border: 4px solid rgba(114, 17, 17, 0.767);
 }
